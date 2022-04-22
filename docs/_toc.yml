@@ -1,0 +1,19 @@
+format: jb-book
+root: welcome
+parts:
+- caption: Dandisets Overview
+  chapters:
+  - file: dandisets/intro
+  - file: dandisets/navigation_downloads
+- caption: Dandiset 000026
+  chapters:
+  - file: dandiset_000026/intro
+  - file: dandiset_000026/access_download
+  - file: dandiset_000026/data_navigation
+  - file: dandiset_000026/data_visualization
+- caption: Dandiset 000108
+  chapters:
+  - file: dandiset_000108/intro
+  - file: dandiset_000108/access_download
+  - file: dandiset_000108/data_navigation
+  - file: dandiset_000108/data_visualization
