@@ -3,6 +3,7 @@
 
 title: "Dandisets Book"
 author: "The Dandisets Book Authors"
+copyright: "2022"
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
